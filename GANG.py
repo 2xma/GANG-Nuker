@@ -246,15 +246,16 @@ def spammer():
     colorama.init()
     print('')
     print('')
-    print(f'                                       {Fore.LIGHTMAGENTA_EX}/$$$$$$   /$$$$$$  /$$   /$$  /$$$$$$')
-    print(f'                                      /$$__  $$ /$$__  $$| $$$ | $$ /$$__  $$')
-    print(f'                                     | $$  \__/| $$  \ $$| $$$$| $$| $$  \__/')
-    print(f'                                     | $$ /$$$$| $$$$$$$$| $$ $$ $$| $$ /$$$$')
-    print(f'                                     | $$|_  $$| $$__  $$| $$  $$$$| $$|_  $$')
-    print(f'                                     | $$  \ $$| $$  | $$| $$\  $$$| $$  \ $$')
-    print(f'                                     |  $$$$$$/| $$  | $$| $$ \  $$|  $$$$$$/')
-    print(f'{Fore.WHITE}> Made by ††#7777{Fore.RESET}                     {Fore.LIGHTMAGENTA_EX}\______/ |__/  |__/|__/  \__/ \______/')
-    print(f'{Fore.WHITE}> https://github.com/TT-Tutorials{Fore.RESET}') 
+    print(f'                                     
+print(f'                                   ██████╗  █████╗ ███████╗ ██████╗ ██╗  ██╗     ██████╗ ██████╗ 
+print(f'                                   ██╔════╝ ██╔══██╗╚══███╔╝██╔═══██╗██║ ██╔╝    ██╔═══██╗██╔══██╗
+print(f'                                   ██║  ███╗███████║  ███╔╝ ██║   ██║█████╔╝     ██║   ██║██████╔╝
+print(f'                                   ██║   ██║██╔══██║ ███╔╝  ██║   ██║██╔═██╗     ██║   ██║██╔═══╝ 
+print(f'                                   ╚██████╔╝██║  ██║███████╗╚██████╔╝██║  ██╗    ╚██████╔╝██║     
+print(f'                                         ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝     ╚═════╝ ╚═╝     
+                                                               
+    print(f'{Fore.WHITE}> Made by gazok#000{Fore.RESET}                     
+    print(f'{Fore.WHITE}> Youtube: https://www.youtube.com/channel/UCdgHSzBXjBwNOM1-EoqpQ9w{Fore.RESET}') 
     print(f'{Fore.LIGHTMAGENTA_EX}════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════{Fore.RESET}')
     print(
         f'{Fore.LIGHTMAGENTA_EX}[1]{Fore.RESET} Joiner          {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[9]{Fore.RESET}  Spammer           {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[17]{Fore.RESET} MassReport{Fore.RESET}          {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[25]{Fore.RESET} COMING SOON...{Fore.RESET}')
